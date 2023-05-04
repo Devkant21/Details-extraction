@@ -15,8 +15,8 @@ const Details = () => {
       setUser({ ...user, [name]: value });
     };
 
-    const postData = () => {
-
+    const postData = (e) => {
+      e.preventDefault();
     }
   return (
     <React.Fragment>
