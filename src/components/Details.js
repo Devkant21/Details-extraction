@@ -36,6 +36,14 @@ const Details = () => {
         }),
       }
     );
+
+    if (res) {
+      setUser({
+        name: "",
+        telephone : "",
+        email : "",
+      });
+    }
   };
   return (
     <React.Fragment>
