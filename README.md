@@ -4,7 +4,7 @@ The project is a full-stack web application to extract the datas from the user a
 
 ## Open in Gitpod
 
-https://gitpod.io/https://github.com/Devkant21/Details-extraction
+https://gitpod.io/#prebuild/https://github.com/Devkant21/Details-extraction
 
 ## Technology stacks used : 
     - React 18.2
